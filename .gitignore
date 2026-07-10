@@ -1,0 +1,10 @@
+### VS Code ###
+.vscode/
+
+### Java ###
+*.class
+*.jar
+*.log
+
+### Archivos del sistema ###
+.DS_Store
